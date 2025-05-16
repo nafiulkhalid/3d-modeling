@@ -1,5 +1,5 @@
 # My 3D Modeling Collection
-> This repository contains a curated collection of open-source 3D models, each prepared for editing and 3D printing.  
+This repository contains a curated collection of open-source 3D models, each prepared for editing and 3D printing.  
 > All designs are provided in standard formats for maximum compatibility with CAD software and 3D printers.
 
 ---
@@ -22,6 +22,24 @@
 | ... | ... | ... | ... |
 | [ten](ten/) | ✅ | ✅ | [View STL](ten/printable/ten.stl) |
 
-> Files are organized per design with clear separation between editable and printable formats.
+Files are organized per design with clear separation between editable and printable formats.
+
+> **Note:** GitHub supports in-browser preview for `.stl` files. Click "View STL" to inspect the 3D model directly.
+
 
 ---
+ ## Every Design Structure
+
+Each design is stored in its own folder with this structure:
+
+```plaintext
+design_name/
+├── editable/
+│   └── design_name.step
+├── printable/
+│   ├── design_name.stl
+│   └── design_name.3mf
+```
+
+--- 
+
