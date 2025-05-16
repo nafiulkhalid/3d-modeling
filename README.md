@@ -1,1 +1,27 @@
-# enigma_3d_print
+# My 3D Modeling Collection
+> This repository contains a curated collection of open-source 3D models, each prepared for editing and 3D printing.  
+> All designs are provided in standard formats for maximum compatibility with CAD software and 3D printers.
+
+---
+
+## File Types
+
+- `.step` – Parametric 3D CAD model, editable in FreeCAD, Fusion 360, SolidWorks, etc.
+- `.stl` – Mesh file for 3D printing, compatible with all slicers and printers.
+- `.3mf` – Enhanced print-ready format (optional), supports metadata like colors and units.
+
+---
+
+## 📁 Included Designs
+
+| Design | Editable File (`.step`) | Printable Files (`.stl`, `.3mf`) | Preview |
+|--------|--------------------------|-------------------------------|---------|
+| [one](one/) | ✅ | ✅ | [View STL](one/printable/one.stl) |
+| [two](two/) | ✅ | ✅ | [View STL](two/printable/two.stl) |
+| [three](three/) | ✅ | ✅ | [View STL](three/printable/three.stl) |
+| ... | ... | ... | ... |
+| [ten](ten/) | ✅ | ✅ | [View STL](ten/printable/ten.stl) |
+
+> Files are organized per design with clear separation between editable and printable formats.
+
+---
