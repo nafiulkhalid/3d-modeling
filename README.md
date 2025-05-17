@@ -34,11 +34,9 @@ Each design is stored in its own folder with this structure:
 
 ```plaintext
 design_name/
-├── editable/
-│   └── design_name.step
-├── printable/
-│   ├── design_name.stl
-│   └── design_name.3mf
+├── design_name.step
+├── design_name.stl
+├── design_name.3mf
 ```
 
 --- 
