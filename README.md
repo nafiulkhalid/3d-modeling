@@ -10,18 +10,6 @@ This repository contains a curated collection of open-source 3D models, each pre
 - `.stl` – Mesh file for 3D printing, compatible with all slicers and printers.
 - `.3mf` – Enhanced print-ready format (optional), supports metadata like colors and units.
 
----
-
-## 📁 Included Designs
-
-| Design | Editable File (`.step`) | Printable Files (`.stl`, `.3mf`) | Preview |
-|--------|--------------------------|-------------------------------|---------|
-| [one](one/) | ✅ | ✅ | [View STL](one/printable/one.stl) |
-| [two](two/) | ✅ | ✅ | [View STL](two/printable/two.stl) |
-| [three](three/) | ✅ | ✅ | [View STL](three/printable/three.stl) |
-| ... | ... | ... | ... |
-| [ten](ten/) | ✅ | ✅ | [View STL](ten/printable/ten.stl) |
-
 Files are organized per design with clear separation between editable and printable formats.
 
 > **Note:** GitHub supports in-browser preview for `.stl` files. Click "View STL" to inspect the 3D model directly.
